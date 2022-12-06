@@ -10,8 +10,6 @@ font-weight: bold;
 body {
     background-color: #f1c0f1
 }
-
-img {
+main {
     width: 200px;
-    height: 200px;
 }
