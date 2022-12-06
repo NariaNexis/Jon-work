@@ -8,8 +8,27 @@ font-weight: bold;
 }
 
 body {
-    background-color: #f1c0f1
+    background-color: #e5e5e5
 }
 main {
     width: 200px;
+}
+
+img {
+    border-radius: 50%;
+    height: 150px;
+    width:150px
+    ;
+}
+h1{
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+
+table, th,td {
+  border: 1px solid black;
+  text-align: center;
+  
 }
