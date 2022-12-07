@@ -1,17 +1,5 @@
-.text {
-font-family: Verdana;
-text-align:center;
-margin-left: 20%;
-margin-right: 20%;
-color: green;
-font-weight: bold;
-}
-
 body {
-    background-color: #e5e5e5
-}
-main {
-    width: 200px;
+    background-color: #e5e5e5;
 }
 
 img {
@@ -20,10 +8,10 @@ img {
     width:150px
     ;
 }
-h1{
+h3{
     text-align: center;
 }
-h2 {
+h4 {
     text-align: center;
 }
 
@@ -31,4 +19,7 @@ table, th,td {
   border: 1px solid black;
   text-align: center;
   
+}
+main {
+    border-color: blue;
 }
